@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Project: Recipe book</title>
+        <meta charset="utf-8">
+        <style>
+        </style>
+    </head>
+    <body>
+       
+        <h1>Pranai's Recipe Book</h1>
+        
+        <h2>Contents:</h2>
+        
+        <ol>
+            <li><a href="#Scrambled-Eggs">Scrambled Eggs</a></li>
+	    <li><a href="#Goli-Baje">Goli Baje (Mangalore Bonda)</a></li>
+	    <li><a href="#Coconut-Chutney">Coconut Chutney</a></li>
+        </ol>
+        
+        <h2 id="Scrambled-Eggs">Scrambled Eggs</h2>
+        
+        <ul>
+            <li>Time: 2 Minutes</li>
+            <li>Serves: 1</li>
+        </ul>
+        
+        <h3><strong>Ingredients:</strong></h3>
+        <ul>
+            <li>2 Eggs</li>
+            <li>1 tbsp Butter</li>
+            <li>Salt and Pepper to taste</li>
+        </ul>
+        
+        <h3>Directions:</h3>
+            
+        <ol>
+        <li>Heat the butter on a pan.</li>
+        
+        <li>Just as the butter starts browning, crack the eggs on the pan.</li>
+
+<li>Using a spatula stir the eggs until they are no longer moist.</li>
+        <li>Add salt and pepper.</li>
+
+        </ol>
+        <p><em>Source: PremAnand Rao's Recipies</em></p>
+        
+        <h2 id="Goli-Baje"><strong>Goli Baje (Mangalore Bonda)</strong></h2>
+        
+        <ul>
+            <li>Total Time: 1 ½ hours</li>
+            <li>Serves: 6</li>
+        </ul>
+        
+
+        <h3><strong>Ingredients:</strong></h3>
+        
+                
+        <ul>
+                <li>½ cup Curd</li>
+                <li>1 ¼ cups Water</li>
+                <li>1 tsp salt</li>
+                <li>1 tsp Baking Soda</li>
+                <li>2 tsp Sugar</li>
+                <li>2 cup Maida (All Purpose Flour)</li>
+                <li>2 tbsp Besan (Chickpea Flour)</li>
+                <li>4 Green Chillies</li>
+        </ul>
+       
+       <h3>Directions:</h3>
+       
+       <ol>
+           <li>Mix the water, curd, baking soda, and sugar together.</li>
+           <li>After mixing, add besan and Maida to the batter.</li>
+           <li>After mixing again, add the ginger and the green chillies. (Keep the batter aside for one hour or more).
+           
+           <li>Deep fry. [Note: Fry batter spoon by spoon]
+           
+       </ol>
+       
+    <p><em>Serve by itself or serve with <a href="#Coconut-Chutney">Coconut Chutney</a></em> <strong>ENJOY</strong></p>
+        
+    <p><em>Source: Priya Rao's Recipies</em></p>
+
+    <h2 id="Coconut-Chutney">Coconut Chutney</h2>
+    
+    </body>
+</html>
